@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-image: url("material23.png");
+    background-position: center;
+    background-repeat: auto;
+    width: 800px;
+    margin: 0 auto;
+    border: 3px solid green;
+    padding: 0 2em 1em;
+}
+h1 { 
+    font-size: 150%;
+    color: cyan;
+    margin-bottom: .5em;
+   
+}
+label {
+    float: left;
+    width: 8em;
+    color: cyan;
+}
+input {
+    width: 22em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+   
+}
+input[type="button"] {
+    width: 10.5em;
+}
+.clear {
+    clear: both;
+}
+#contacts {
+    width: 50%;
+    margin: 0 3em 0 0;
+    float: right;
+    color: yellow;
+}
